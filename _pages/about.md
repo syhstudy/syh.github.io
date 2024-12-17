@@ -1,7 +1,7 @@
 ---
-A: /
-B: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-C: true
+A: xx
+B: "xx"
+C: xx
 D: 
   - xx /
   - xx /
