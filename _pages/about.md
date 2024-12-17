@@ -15,13 +15,13 @@ I am a teaching assistant at Nantong Normal College.
 
 My research focuses on Intelligent Software Engineering, with a spotlight on the following key areas:
 
-+ /  Reliability
++ Reliability
 
-Robustness
++ Robustness
 
-Security
++ Security
 
-Others
++ Others
 
 My advisor is Professor xiaolin Ju (鞠小林) and [Xiang Chen](https://smartse.github.io/) (陈翔). I have published five papers at journals (e.g., ASEJ) and the international conferences (e.g., SEKE, Internetware).
 
