@@ -12,7 +12,7 @@ Security
 
 Others
 
-My advisor is Professor xiaolin Ju (鞠小林) and [Xiang Chen](https://xchencs.github.io/group/index.html) (陈翔). I have published five papers at journals (e.g., ASEJ) and the international conferences (e.g., SEKE, Internetware).
+My advisor is Professor xiaolin Ju (鞠小林) and [Xiang Chen](https://smartse.github.io/) (陈翔). I have published five papers at journals (e.g., ASEJ) and the international conferences (e.g., SEKE, Internetware).
 
 
 Educations
