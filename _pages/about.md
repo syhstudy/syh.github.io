@@ -13,7 +13,7 @@ About me
 ======
 I am a teaching assistant at Nantong Normal College.
 
-My research focuses on Intelligent Software Engineering, with a spotlight on the following key areas:
+My research focuses on *Intelligent Software Engineering*, with a spotlight on the following key areas:
 
 + Reliability
 
