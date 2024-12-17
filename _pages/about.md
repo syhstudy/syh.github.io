@@ -1,14 +1,3 @@
-#---
-#A: xx
-#B: "xx"
-##C: xx
-#D: 
-#  - xx
-#  - xx
-#  - xx
-#---
-
-
 About me
 ======
 I am a teaching assistant at Nantong Normal College.
