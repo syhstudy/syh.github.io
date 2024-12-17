@@ -3,8 +3,8 @@ A: xx
 B: "xx"
 C: xx
 D: 
-  - xx /
-  - xx /
+  - xx
+  - xx
   - xx
 ---
 
